@@ -16,6 +16,14 @@ header {
 
     background-color: #005f7a; 
 
+    background-image : url('img/jumbotron.jpg');
+
+    background-position: 0%;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
     padding: 20px; 
 
     color: white; 
